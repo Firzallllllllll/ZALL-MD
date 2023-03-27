@@ -71,18 +71,18 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62821421082436'
-global.nomorown = '6282142108243'
-global.namebot = 'R-BOT'
+global.nomorbot = '6287734841930'
+global.nomorown = '6287734841930'
+global.namebot = 'zall-MD'
 global.nameown = 'R?'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282142108243'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282142108243', 'R?', true]
+  ['6287734841930'],
+  ['6287734841930'],
+  ['6287734841930'],
+  ['6287734841930', 'R?', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -90,9 +90,9 @@ global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user
 global.ChatAi = `Your api` //REGIS DI https://openai.com/api/
 
 /*============== WATERMARK ==============*/
-global.wm = 'By R-BOT' //Main Watermark
+global.wm = 'By zall-BOT' //Main Watermark
 global.wm2 = 'R?'
-global.wm3 = 'R-BOT | By R?'
+global.wm3 = 'ZALL-BOT | By R?'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `R-BOT | ʙʏ ${global.nameown}`
@@ -110,7 +110,7 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya R-BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya zall-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 
